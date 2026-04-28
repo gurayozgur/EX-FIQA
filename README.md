@@ -1,6 +1,6 @@
 # EX-FIQA: Leveraging Intermediate Early eXit Representations from Vision Transformers for Face Image Quality Assessment
 
-This repository contains the official implementation of the paper **"[EX-FIQA: Leveraging Intermediate Early eXit Representations from Vision Transformers for Face Image Quality Assessment]()"**, accepted at FG2026.
+This repository contains the official implementation of the paper **"[EX-FIQA: Leveraging Intermediate Early eXit Representations from Vision Transformers for Face Image Quality Assessment](https://arxiv.org/pdf/2604.22842)"**, accepted at FG2026.
 
 ## Overview
 
@@ -66,7 +66,15 @@ Run the evaluation script `evaluation/quality.sh`.
 
 ## Citation
 ```
-
+@misc{ozgur2026exfiqaleveragingintermediateearly,
+      title={EX-FIQA: Leveraging Intermediate Early eXit Representations from Vision Transformers for Face Image Quality Assessment}, 
+      author={Guray Ozgur and Tahar Chettaoui and Eduarda Caldeira and Jan Niklas Kolf and Andrea Atzori and Fadi Boutros and Naser Damer},
+      year={2026},
+      eprint={2604.22842},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.22842}, 
+}
 ```
 
 ## License
