@@ -2,6 +2,12 @@
 
 This repository contains the official implementation of the paper **"[EX-FIQA: Leveraging Intermediate Early eXit Representations from Vision Transformers for Face Image Quality Assessment](https://arxiv.org/pdf/2604.22842)"**, accepted at FG2026.
 
+## Poster
+<p align="center">
+    <img src="assets/EX_FIQA_POSTER.png" alt="EX-FIQA Poster" width="80%">
+    <br>
+</p>
+
 ## Overview
 
 **EX-FIQA** is a face image quality assessment method that leverages intermediate representations from Vision Transformer (ViT) models. Unlike traditional approaches that rely solely on final layer outputs, our method extracts quality-aware features from all 12 transformer blocks of ViT-S, enabling both early exit capabilities and comprehensive quality assessment through feature fusion.
